@@ -26,7 +26,7 @@ namespace GameProject
 
             Person ismail = new Player() { NationalityNumber = "11111111111", Name = "ismail", LastName = "ismail", YearOfBirth = 1985};
             Person mehmet = new Player() { NationalityNumber = "22222222222", Name = "mehmet", LastName = "mehmet", YearOfBirth = 2000};
-            Person dilek = new Player() { NationalityNumber = "333333333333", Name = "dilek", LastName = "dilek", YearOfBirth = 2003};
+            Person dilek = new Player() { NationalityNumber = "33333333333", Name = "dilek", LastName = "dilek", YearOfBirth = 2003};
             Person gülden = new Player() { NationalityNumber = "44444444444", Name = "gülden", LastName = "gülden", YearOfBirth = 2000};
 
             playerManager.Add(ismail);
